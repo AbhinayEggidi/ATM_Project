@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<center>
+<form>
+<input placeholder="mobile number" name="mb"><br>
+<input placeholder="enter pin" name="pin"><br>
+<input type="submit"><input type="button" value="cancel">
+</form>
+</center>
+</body>
+</html>
